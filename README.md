@@ -9,15 +9,13 @@ ________________________________________________________________________________
 
 💻 Projects I've Worked on:
 
-1. QuickChat Messenger
-Description:
+1. QuickChat Messenger:
 - Developed QuickChat Messenger, a user-friendly social media platform targeting a child-safe audience.
 - Created a user-friendly GUI with Java Swing to facilitate easy interaction, incorporating features like message display, friend requests, and user blocking.
 - Built the server-client architecture, ensuring robust data handling and secure user interactions.
 Created comprehensive backend functionality including user management, conversation tracking, and database interactions.
 
-2. Automated Scheduling
-Description:
+2. Automated Scheduling:
 - Built a web-application with ReactJS that displays an automated scheduling module in a consolidated and easily navigable manner and deployed the website for public use by my local school district 
 - Website allowed my highschool administration to create custom school schedules and split time intervals accordingly. 
 Tech Stack: AI, Python, JavaScript.
