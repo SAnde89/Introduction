@@ -29,4 +29,4 @@ ________________________________________________________________________________
 I’m continually pushing my limits in areas like:
 
 📫 Let's Connect!
-Feel free to connect with me on LinkedIn or explore more of my work on GitHub.
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/sairam-ande) or explore more of my work on GitHub.
